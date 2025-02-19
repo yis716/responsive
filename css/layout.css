@@ -4,7 +4,7 @@
   width: 100%;
   height: 100%;
   overflow: hidden;
-  position: absolute;  
+  position: absolute;
 }
 #videoBG {
   position: fixed; /*고정=>fixed/ 스크롤처리=>absolute */
