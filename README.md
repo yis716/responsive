@@ -5,7 +5,7 @@ National Geographic 반응형 웹 포트폴리오입니다.
 
 ## 🔗 URL
 
-- * National Geographic 반응형 웹프로젝트
+ * National Geographic 반응형 웹프로젝트
     + https://iyu7716.mycafe24.com/media/
 
 
